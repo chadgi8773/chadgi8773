@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on AI and Backend projects
 - 🤔 I’m looking for help with AI and Backend projects
 - 💬 Ask me about AI and Backend development
-- 📫 How to reach me: https://roadmap.sh/u/chadgi8773
+- 📫 How to reach me: https://roadmap.sh/u/chadgi8773, https://app.daily.dev/chadgi8773
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 51/3 = 17
 
