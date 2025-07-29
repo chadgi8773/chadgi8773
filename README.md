@@ -9,4 +9,4 @@
 - ⚡ Fun fact: 51/3 = 17
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/681a332e3da6ef58483436c6?variant=dark&roadmaps=php%2Cai-agents%2Cgit-github%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/681a332e3da6ef58483436c6?variant=dark)](https://roadmap.sh)
